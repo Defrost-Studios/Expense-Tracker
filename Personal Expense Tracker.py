@@ -1,5 +1,5 @@
-#Personal Expense Tracker - Veral Giriraju 
-#yuhh
+#Personal Expense Tracker
+
 
 import csv
 from datetime import datetime
@@ -41,3 +41,4 @@ while q == False:
         q = True
     else:
         print("invalid response")
+
